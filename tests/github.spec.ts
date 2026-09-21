@@ -48,8 +48,13 @@ When branch is already created follow the below steps::
 on the above line you will get one recommended command to use. 
 
 
+// After above steps , we need to goto Github
 
-
-
+// create pull request:: 
+1. Goto Repository in the github and click on Pull request tab
+2. Open new pull request 
+3. Provide title of PR and description if any. 
+4. Assign the reviewer and click on create pull request
+5. After review is completed , merge of code will be done by reviewer. 
 
 */
