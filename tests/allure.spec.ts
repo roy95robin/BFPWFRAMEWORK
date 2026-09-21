@@ -24,4 +24,5 @@ copy the history folder from allure report folder and paste it inside the allure
 for history or trends details.
 
 
+// new changes 
 */
